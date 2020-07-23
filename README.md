@@ -1,4 +1,4 @@
-### Hi there 👋
+### Conic Section Colors
 
 <!--
 **sirbrucea/sirbrucea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Conic Section Colors](https://github.com/sirbrucea/sirbrucea/blob/master/bmp_1920x1080.bmp)
